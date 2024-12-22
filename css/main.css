@@ -1199,7 +1199,7 @@ header .row {
 	background: #;
 	padding: 24px 30px 42px;
 	margin: 0;
-	width: 30%;
+	width: 100%;
 	height: auto;
 	clear: both;
 	display: none;
@@ -1216,7 +1216,7 @@ header .row {
 	color: #837474;
 	width: auto;
 	padding: 15px 0;
-	line-height: 20px;
+	line-height: 16px;
 	border: none;
 }
 .main-navigation li a:hover {
